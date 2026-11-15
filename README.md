@@ -1,4 +1,4 @@
-Simple Calculator
+Simple Calculator:
 Simple Calculator is a Java-based application developed as part of my internship at CodeOrbit Tech. The project provides a menu-driven interface that allows users to perform arithmetic operations such as addition, subtraction, multiplication, and division on multiple numbers. It also includes exception handling for invalid inputs and validation to prevent division by zero, making the application more reliable and user-friendly.
 
 Features:
@@ -17,4 +17,6 @@ Scanner Class
 Switch Case
 Loops
 Exception Handling
-Author: Dasari Tejasiri Chandana
+
+Author:
+Dasari Tejasiri Chandana
